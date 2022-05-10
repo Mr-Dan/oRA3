@@ -2,6 +2,7 @@
 ## Name: oRA3
 ## Notes: Raid and Party Assist
 ## Author: Ammo, Rabbit
+## Version: 1.0
 ## X-Curse-Packaged-Version: r441
 ## X-Curse-Project-Name: oRA3
 ## X-Curse-Project-ID: ora3
